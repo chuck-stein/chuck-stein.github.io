@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.chuckstein.ApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-22T08:39:36" hostname="CHUCK-DESKTOP-2" time="0.556">
+  <properties/>
+  <testcase name="testRoot" classname="io.chuckstein.ApplicationTest" time="0.556"/>
+  <system-out><![CDATA[2021-12-22 03:39:36.449 [Test worker] INFO  ktor.test - Autoreload is disabled because the development mode is off.
+2021-12-22 03:39:36.456 [Test worker] INFO  ktor.test - Application started in 0.052 seconds.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
