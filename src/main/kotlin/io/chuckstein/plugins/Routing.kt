@@ -1,14 +1,14 @@
 package io.chuckstein.plugins
 
-import io.ktor.application.*
-import io.ktor.features.*
-import io.ktor.locations.*
-import io.ktor.response.*
-import io.ktor.routing.*
+import io.ktor.server.application.*
+import io.ktor.server.locations.*
+import io.ktor.server.plugins.*
+import io.ktor.server.response.*
+import io.ktor.server.routing.*
 
 fun Application.configureRouting() {
-    install(AutoHeadResponse)
     install(Locations)
+    install(AutoHeadResponse)
 
     routing {
         get("/") {

@@ -1,13 +1,15 @@
 package io.chuckstein
 
+import io.chuckstein.plugins.configureRouting
+import io.chuckstein.plugins.configureSerialization
+import io.chuckstein.plugins.configureTemplating
 import io.ktor.server.engine.*
 import io.ktor.server.netty.*
-import io.chuckstein.plugins.*
 
 fun main() {
     embeddedServer(Netty, port = 8080, host = "0.0.0.0") {
         configureRouting()
-        configureTemplating()
         configureSerialization()
+        configureTemplating()
     }.start(wait = true)
 }
