@@ -6,6 +6,7 @@ import io.ktor.server.plugins.*
 import io.ktor.server.response.*
 import io.ktor.server.routing.*
 
+@OptIn(KtorExperimentalLocationsAPI::class)
 fun Application.configureRouting() {
     install(Locations)
     install(AutoHeadResponse)
@@ -27,9 +28,12 @@ fun Application.configureRouting() {
     }
 }
 
+@OptIn(KtorExperimentalLocationsAPI::class)
 @Location("/location/{name}")
 class MyLocation(val name: String, val arg1: Int = 42, val arg2: String = "default")
 
+
+@OptIn(KtorExperimentalLocationsAPI::class)
 @Location("/type/{name}")
 data class Type(val name: String) {
 
