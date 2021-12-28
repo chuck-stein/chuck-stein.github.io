@@ -9,9 +9,10 @@ description: An Android app for finding an album to listen to from your Spotify 
 
 An Android app for finding an album to listen to from your Spotify library based on your current mood.
 
-{% include elements/button.html link="https://appdistribution.firebase.dev/i/0c6b8e63ad9c7d12" text="Join The Alpha" %}
-
 <p class="text-center">
-![Libzy Screenshot](../assets/projects/libzy/libzy.jpg?raw=true "Libzy")
+{% include elements/button.html link="https://github.com/chuck-stein/libzy" text="See The Code" %}
+{% include elements/button.html link="https://appdistribution.firebase.dev/i/0c6b8e63ad9c7d12" text="Join The Alpha" %}
 </p>
+
+![Libzy Screenshot](../assets/projects/libzy/libzy.jpg)
 
