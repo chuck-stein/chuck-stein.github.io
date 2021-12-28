@@ -1,0 +1,92 @@
+### Site Settings ###
+title               : Chuck Stein
+description         : >-
+                      I turn coffee :coffee: into code,
+                      use tabs over spaces
+                      and never broke production.
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : chuck-stein/chuckstein.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Chuck Stein
+  image             : https://scontent-bos3-1.xx.fbcdn.net/v/t39.30808-1/p320x320/242063582_1767269800132335_5813225991806361942_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=7206a8&_nc_ohc=h_X-_pbMzQsAX-1d7uS&_nc_ht=scontent-bos3-1.xx&oh=00_AT8bF7LIJJTd0vAna7Sd3_dK3-OcxMwzIw8RgJZ72DDmQA&oe=61CFA080
+# behance           : your_username
+# dribbble          : your_username
+  email             : cfgstein@gmail.com
+# facebook          : your_username
+  github            : chuck-stein
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : chuck-stein-5a4219171
+# medium            : your_username
+  soundcloud        : chuckfrancis
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+disqus:
+  shortname: chuckstein                    # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
