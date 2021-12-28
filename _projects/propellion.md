@@ -7,8 +7,6 @@ description: A 3D sci-fi parkour game where you are a space ninja grappling thro
 
 # Propellion
 
-A 3D sci-fi parkour game where you are a space ninja grappling through an asteroid field and fighting aliens.
-
 {% capture carousel_images %}
 ../assets/projects/propellion/propellion-action-shot.jpeg
 ../assets/projects/propellion/propellion-black-hole.jpeg
@@ -32,6 +30,19 @@ We also built a reactive dialogue system in which B3M1S will (often mockingly) g
 triggering different voice lines based on game state and player actions.
 The voice lines are all recorded and edited by me within Ableton Live, and processed using iZotope VocalSynth 2 to make my voice sound robotic.
 I also composed the game soundtrack in Ableton Live.
+
+**You can play the game below straight from your browser!**
+
+### Controls
+
+| Button            | Effect                                                         |
+| ----------------- |:--------------------------------------------------------------:|
+| left click & hold | grapple & reel in towards target (if close enough)             |
+| right click       | swing katana                                                   |
+| space             | thrust forward in direction you are facing / skip cutscenes    |
+| tab               | toggle pause menu                                              |
+
+Follow the direction indicated by the blue arrow on your HUD to reach the portal at the end of each level. Remember to reel in aliens before swinging your katana to slay them!
 
 <p class="text-center">
 <iframe frameborder="0" src="https://itch.io/embed-upload/2574138?color=17191a" allowfullscreen="" width="980" height="688"><a href="https://chuckstein.itch.io/propellion-beta">Play Propellion - Beta on itch.io</a></iframe>
