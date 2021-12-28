@@ -11,5 +11,5 @@ For this project I first transcribed each instrument into a separate MIDI track 
 
 <p class="text-center">
 {% include elements/button.html link="https://musescore.com/user/33215640/scores/5887016" text="Listen & View The Score On MuseScore" %}
-{% include elements/button.html link="../assets/bjork-transcription/unison-score.pdf" text="View & Download The Full Score PDF" %}
+{% include elements/button.html link="../assets/projects/bjork-transcription/unison-score.pdf" text="View & Download The Full Score PDF" %}
 </p>
