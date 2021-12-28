@@ -37,10 +37,6 @@ I also composed the game soundtrack in Ableton Live.
 
 <br />
 
-***
-
-<br />
-
 <p align="center">
   <b>
     You can play the game below straight from your browser!
@@ -58,7 +54,6 @@ I also composed the game soundtrack in Ableton Live.
   Does not work on mobile.
 </p>
 
-<div align="center">
 #### Controls
 | Button            | Effect                                                         |
 | ----------------- |:--------------------------------------------------------------:|
@@ -70,4 +65,3 @@ I also composed the game soundtrack in Ableton Live.
 Follow the direction indicated by the blue arrow on your HUD to reach the portal at the end of each level.
 <br />
 Remember to reel in aliens before swinging your katana to slay them!
-</div>
