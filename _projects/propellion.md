@@ -7,6 +7,8 @@ description: A 3D sci-fi parkour game where you are a space ninja grappling thro
 
 # Propellion
 
+A 3D sci-fi parkour game where you are a space ninja grappling through an asteroid field and fighting aliens.
+
 {% capture carousel_images %}
 ../assets/projects/propellion/propellion-action-shot.jpeg
 ../assets/projects/propellion/propellion-black-hole.jpeg
