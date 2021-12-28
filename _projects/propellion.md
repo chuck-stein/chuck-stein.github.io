@@ -22,9 +22,11 @@ In the game you are training to be a "space ninja," guided by a snarky robot nam
 The goal is to navigate through an asteroid field to find a portal using all the tools at your disposal -- a grapple gun, a jetpack,
 and a "space katana" to slice alien foes who stand in your way. You can grapple between asteroids, but have to act quickly because
 your space suit can take damage if you smash into them too hard, or get shot by an alien. You can repair suit damage by reeling in med kits floating around the asteroid field.
+
 The game features three levels -- the first is a simple asteroid field to get the hang of the movement controls, the second adds a black hole
 consistently expanding behind you and sucking up anything in its path (asteroids and all) that you must stay ahead of to survive,
-and the third adds the threat of aliens which you must grapple towards you and slice with your space katana to defeat.
+and the third adds the threat of aliens which you must grapple towards you then slice with your space katana to defeat.
+
 We incorporated simple AI via a finite state machine for the aliens, procedural generation for the asteroid field, and heavy use of Unity's physics system for movement and the black hole.
 We also built a reactive dialogue system in which B3M1S will (often mockingly) guide the player through their mistakes and successes,
 triggering different voice lines based on game state and player actions.
@@ -34,9 +36,7 @@ I also composed the game soundtrack in Ableton Live.
 <p class="text-center">
   {% include elements/button.html link="https://github.com/chilipot/propellion" text="See The Code" %}
 </p>
-
 <br />
-
 <p align="center">
   <b>
     You can play the game below straight from your browser!
