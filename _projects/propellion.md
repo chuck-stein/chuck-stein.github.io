@@ -26,4 +26,13 @@ I also composed the game soundtrack in Ableton Live.
 {% include elements/button.html link="https://github.com/chilipot/propellion" text="See The Code" %}
 </p>
 
-![Propellion Gameplay Screenshot](../assets/projects/propellion/propellion-action-shot.png)
+{% capture carousel_images %}
+../assets/projects/propellion/propellion-action-shot.png
+../assets/projects/propellion/propellion-black-hole.png
+../assets/projects/propellion/propellion-b3m1s.png
+../assets/projects/propellion/propellion-alien.png
+../assets/projects/propellion/propellion-wounded-alien.png
+../assets/projects/propellion/propellion-simulation-booth.png
+{% endcapture %}
+{% include elements/carousel.html %}
+
