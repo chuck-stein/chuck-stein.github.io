@@ -35,9 +35,10 @@ I also composed the game soundtrack in Ableton Live.
   {% include elements/button.html link="https://github.com/chilipot/propellion" text="See The Code" %}
 </p>
 
-
 <br />
-___
+
+***
+
 <br />
 
 <p align="center">
@@ -57,7 +58,7 @@ ___
   Does not work on mobile.
 </p>
 
-<center>
+<div align="center">
 #### Controls
 | Button            | Effect                                                         |
 | ----------------- |:--------------------------------------------------------------:|
@@ -66,5 +67,7 @@ ___
 | space             | thrust forward in direction you are facing / skip cutscenes    |
 | tab               | toggle pause menu                                              |
 
-Follow the direction indicated by the blue arrow on your HUD to reach the portal at the end of each level. Remember to reel in aliens before swinging your katana to slay them!
-</center>
+Follow the direction indicated by the blue arrow on your HUD to reach the portal at the end of each level.
+<br />
+Remember to reel in aliens before swinging your katana to slay them!
+</div>
