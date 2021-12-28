@@ -1,4 +1,4 @@
----
+-
 name: Propellion
 tools: [Unity, C#, Procedural Generation, Game AI, Dialogue Editing, Audio Production, Ableton Live, iZotope VocalSynth]
 image: ../assets/projects/propellion/propellion-simulation-booth.jpeg
@@ -6,6 +6,16 @@ description: A 3D sci-fi parkour game where you are a space ninja grappling thro
 ---
 
 # Propellion
+
+{% capture carousel_images %}
+../assets/projects/propellion/propellion-action-shot.jpeg
+../assets/projects/propellion/propellion-black-hole.jpeg
+../assets/projects/propellion/propellion-b3m1s.jpeg
+../assets/projects/propellion/propellion-alien.jpeg
+../assets/projects/propellion/propellion-wounded-alien.jpeg
+../assets/projects/propellion/propellion-simulation-booth.jpeg
+{% endcapture %}
+{% include elements/carousel.html %}
 
 I worked with two friends on this project, my first real venture into 3D game development.
 In the game you are training to be a "space ninja," guided by a snarky robot named B3M1S (a.k.a. "Bemis").
@@ -22,18 +32,7 @@ The voice lines are all recorded and edited by me within Ableton Live, and proce
 I also composed the game soundtrack in Ableton Live.
 
 <p class="text-center">
-{% include elements/button.html link="https://uniquerdm.itch.io/propellion-gold-master" text="Play The Game" %}
+<iframe frameborder="0" src="https://itch.io/embed-upload/2574138?color=17191a" allowfullscreen="" width="980" height="688"><a href="https://chuckstein.itch.io/propellion-beta">Play Propellion - Beta on itch.io</a></iframe>
 {% include elements/button.html link="https://github.com/chilipot/propellion" text="See The Code" %}
 </p>
 
-{% capture carousel_images %}
-../assets/projects/propellion/propellion-action-shot.jpeg
-../assets/projects/propellion/propellion-black-hole.jpeg
-../assets/projects/propellion/propellion-b3m1s.jpeg
-../assets/projects/propellion/propellion-alien.jpeg
-../assets/projects/propellion/propellion-wounded-alien.jpeg
-../assets/projects/propellion/propellion-simulation-booth.jpeg
-{% endcapture %}
-{% include elements/carousel.html %}
-
-<iframe src="https://itch.io/embed/730671" height="167" width="552" frameborder="0"><a href="https://uniquerdm.itch.io/propellion-gold-master">Propellion Gold Master by uniquerdm</a></iframe>
