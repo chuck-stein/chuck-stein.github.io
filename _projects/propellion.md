@@ -33,23 +33,33 @@ I also composed the game soundtrack in Ableton Live.
 
 <p class="text-center">
   {% include elements/button.html link="https://github.com/chilipot/propellion" text="See The Code" %}
+</p>
+
+___
+
   
-  ___
-  
+<p class="text-center">
   **You can play the game below straight from your browser!**
+</p>
   
-  <iframe frameborder="0" src="https://itch.io/embed-upload/2574138?color=17191a" allowfullscreen="" width="768" height="480"><a href="https://chuckstein.itch.io/propellion-beta">Play Propellion - Beta on itch.io</a></iframe>
+<p class="text-center">
+  <iframe frameborder="0" src="https://itch.io/embed-upload/2574138?color=17191a" allowfullscreen="" width="768" height="480">
+    <a href="https://chuckstein.itch.io/propellion-beta">
+      Play Propellion - Beta on itch.io
+    </a>
+  </iframe>
 </p>
 
 
+<p class="text-center">
+  #### Controls
 
-### Controls
+  | Button            | Effect                                                         |
+  | ----------------- |:--------------------------------------------------------------:|
+  | left click & hold | grapple & reel in towards target (if close enough)             |
+  | right click       | swing katana                                                   |
+  | space             | thrust forward in direction you are facing / skip cutscenes    |
+  | tab               | toggle pause menu                                              |
 
-| Button            | Effect                                                         |
-| ----------------- |:--------------------------------------------------------------:|
-| left click & hold | grapple & reel in towards target (if close enough)             |
-| right click       | swing katana                                                   |
-| space             | thrust forward in direction you are facing / skip cutscenes    |
-| tab               | toggle pause menu                                              |
-
-Follow the direction indicated by the blue arrow on your HUD to reach the portal at the end of each level. Remember to reel in aliens before swinging your katana to slay them!
+  Follow the direction indicated by the blue arrow on your HUD to reach the portal at the end of each level. Remember to reel in aliens before swinging your katana to slay them!
+</p>
