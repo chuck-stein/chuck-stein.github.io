@@ -31,7 +31,17 @@ triggering different voice lines based on game state and player actions.
 The voice lines are all recorded and edited by me within Ableton Live, and processed using iZotope VocalSynth 2 to make my voice sound robotic.
 I also composed the game soundtrack in Ableton Live.
 
-**You can play the game below straight from your browser!**
+<p class="text-center">
+  {% include elements/button.html link="https://github.com/chilipot/propellion" text="See The Code" %}
+  
+  ___
+  
+  **You can play the game below straight from your browser!**
+  
+  <iframe frameborder="0" src="https://itch.io/embed-upload/2574138?color=17191a" allowfullscreen="" width="768" height="480"><a href="https://chuckstein.itch.io/propellion-beta">Play Propellion - Beta on itch.io</a></iframe>
+</p>
+
+
 
 ### Controls
 
@@ -43,8 +53,3 @@ I also composed the game soundtrack in Ableton Live.
 | tab               | toggle pause menu                                              |
 
 Follow the direction indicated by the blue arrow on your HUD to reach the portal at the end of each level. Remember to reel in aliens before swinging your katana to slay them!
-
-<p class="text-center">
-<iframe frameborder="0" src="https://itch.io/embed-upload/2574138?color=17191a" allowfullscreen="" width="980" height="688"><a href="https://chuckstein.itch.io/propellion-beta">Play Propellion - Beta on itch.io</a></iframe>
-{% include elements/button.html link="https://github.com/chilipot/propellion" text="See The Code" %}
-</p>
