@@ -11,4 +11,7 @@ An Android app for finding an album to listen to from your Spotify library based
 
 {% include elements/button.html link="https://appdistribution.firebase.dev/i/0c6b8e63ad9c7d12" text="Join The Alpha" %}
 
+<p class="text-center">
 ![Libzy Screenshot](../assets/projects/libzy/libzy.jpg?raw=true "Libzy")
+</p>
+
