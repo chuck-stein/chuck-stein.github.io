@@ -39,7 +39,7 @@ ___
 
   
 <p class="text-center">
-  **You can play the game below straight from your browser!**
+  **You can play the game below straight from your browser! Open in full screen for the best experience.**
 </p>
   
 <p class="text-center">
