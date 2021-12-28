@@ -49,6 +49,7 @@ I also composed the game soundtrack in Ableton Live.
       Play Propellion - Beta on itch.io
     </a>
   </iframe>
+  <br />
   Open in full screen for the best experience.
   <br />
   Does not work on mobile.
@@ -63,5 +64,4 @@ I also composed the game soundtrack in Ableton Live.
 | tab               | toggle pause menu                                              |
 
 Follow the direction indicated by the blue arrow on your HUD to reach the portal at the end of each level.
-<br />
 Remember to reel in aliens before swinging your katana to slay them!
