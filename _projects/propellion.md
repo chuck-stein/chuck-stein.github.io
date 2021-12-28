@@ -1,7 +1,7 @@
 ---
 name: Propellion
 tools: [Unity, C#, Procedural Generation, Game AI, Dialogue Editing, Audio Production, Ableton Live, iZotope VocalSynth]
-image: ../assets/projects/propellion/propellion-simulation-booth.png
+image: ../assets/projects/propellion/propellion-simulation-booth.jpeg
 description: A 3D sci-fi parkour game where you are a space ninja grappling through an asteroid field and fighting aliens
 ---
 
@@ -27,12 +27,12 @@ I also composed the game soundtrack in Ableton Live.
 </p>
 
 {% capture carousel_images %}
-../assets/projects/propellion/propellion-action-shot.png
-../assets/projects/propellion/propellion-black-hole.png
-../assets/projects/propellion/propellion-b3m1s.png
-../assets/projects/propellion/propellion-alien.png
-../assets/projects/propellion/propellion-wounded-alien.png
-../assets/projects/propellion/propellion-simulation-booth.png
+../assets/projects/propellion/propellion-action-shot.jpeg
+../assets/projects/propellion/propellion-black-hole.jpeg
+../assets/projects/propellion/propellion-b3m1s.jpeg
+../assets/projects/propellion/propellion-alien.jpeg
+../assets/projects/propellion/propellion-wounded-alien.jpeg
+../assets/projects/propellion/propellion-simulation-booth.jpeg
 {% endcapture %}
 {% include elements/carousel.html %}
 
