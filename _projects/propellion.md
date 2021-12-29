@@ -36,32 +36,29 @@ I also composed the game soundtrack in Ableton Live.
 <p class="text-center">
   {% include elements/button.html link="https://github.com/chilipot/propellion" text="See The Code" %}
 </p>
-<br />
-<p align="center">
+
+<p class="text-center">
   <b>
-    You can play the game below straight from your browser!
+    <em>
+      You can play the game below straight from your browser!
+    </em>
   </b>
 </p>
-  
+
 <div class="text-center">
   <iframe frameborder="0" src="https://itch.io/embed-upload/2574138?color=17191a" allowfullscreen="" width="768" height="480">
     <a href="https://chuckstein.itch.io/propellion-beta">
       Play Propellion - Beta on itch.io
     </a>
   </iframe>
-  <br />
-  Open in full screen for the best experience.
-  <br />
-  Does not work on mobile.
 </div>
 
-#### Controls
-| Button            | Effect                                                         |
-| ----------------- |:--------------------------------------------------------------:|
-| left click & hold | grapple & reel in towards target (if close enough)             |
-| right click       | swing katana                                                   |
-| space             | thrust forward in direction you are facing / skip cutscenes    |
-| tab               | toggle pause menu                                              |
+<br />
 
-Follow the direction indicated by the blue arrow on your HUD to reach the portal at the end of each level.
-Remember to reel in aliens before swinging your katana to slay them!
+- Open in full screen for the best experience.
+- Game does not work on mobile.
+- View the controls through the main menu or by pressing TAB during gameplay.
+- Follow the direction indicated by the blue arrow on your HUD to reach the portal at the end of each level.
+- Remember to reel in aliens before swinging your katana to slay them!
+
+
