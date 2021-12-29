@@ -46,11 +46,7 @@ I also composed the game soundtrack in Ableton Live.
 </p>
 
 <div class="text-center">
-  <iframe frameborder="0" src="https://itch.io/embed-upload/2574138?color=17191a" allowfullscreen="" width="768" height="480">
-    <a href="https://chuckstein.itch.io/propellion-beta">
-      Play Propellion - Beta on itch.io
-    </a>
-  </iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/2601505?color=17191a" allowfullscreen="" width="686" height="482"><a href="https://uniquerdm.itch.io/propellion-gold-master">Play Propellion on itch.io</a></iframe>
 </div>
 
 <br />
