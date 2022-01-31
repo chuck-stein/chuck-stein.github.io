@@ -23,7 +23,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Chuck Stein
-  image             : https://scontent-bos3-1.xx.fbcdn.net/v/t39.30808-1/p320x320/242063582_1767269800132335_5813225991806361942_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=7206a8&_nc_ohc=h_X-_pbMzQsAX-1d7uS&_nc_ht=scontent-bos3-1.xx&oh=00_AT8bF7LIJJTd0vAna7Sd3_dK3-OcxMwzIw8RgJZ72DDmQA&oe=61CFA080
+  image             : ./assets/chicago-propic.jpeg
 # behance           : your_username
 # dribbble          : your_username
   email             : cfgstein@gmail.com
