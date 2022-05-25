@@ -1,7 +1,7 @@
 - title: Student, Northeastern University
   from: Sep 2017
-  to: present
-  description: I am an undergraduate student in the Khoury College of Computer Sciences, majoring in Computer Science & Music Technology. I write for Tastemakers Magazine, a music publicition for both print and online. I also am in the recording department for the campus record label, Green Line Records, and am a brother of the Beta Theta Pi fraternity.
+  to: May 2022
+  description: I graduated _summa cum laude_ with a Bachelor of Science in Computer Science & Music Technology and a minor in Music Recording as an undergraduate student in the Khoury College of Computer Sciences. I wrote for Tastemakers Magazine, a music publication for both print and online, was in the recording department for the campus record label, Green Line Records, and was a member of the Beta Theta Pi fraternity. I also received the Dennis Miller Award for Excellence in Music Technology.
 
 - title: Software Engineer, Bose
   from: Jan 2019
@@ -16,4 +16,8 @@
 - title: Android Engineer, WHOOP
   from: Jan 2021
   to: Jun 2021
-  description: I worked on several important projects for the Growth team, going beyond my role as an Android Engineer to also provide back-end work where needed. This enhanced my understanding of our software system as a whole, sharpening my perspective as to the bigger picture when developing for the Android app. My projects included the full-stack work for A/B testing a new promotion between users, detecting the eligibility for different users to upgrade their hardware and prompting them to do so, and modifying the registration flow to ensure we have proper credit card information stored in Stripe for various types of users. Along the way for every project, I made an effort to eliminate tech debt, improve our infrastructure, and update code to user newer best practices and technologies 
+  description: I worked on several important projects for the Growth team, going beyond my role as an Android Engineer to also provide back-end work where needed. This enhanced my understanding of our software system as a whole, sharpening my perspective as to the bigger picture when developing for the Android app. My projects included the full-stack work for A/B testing a new promotion between users, detecting the eligibility for different users to upgrade their hardware and prompting them to do so, and modifying the registration flow to ensure we have proper credit card information stored in Stripe for various types of users. Along the way for every project, I made an effort to eliminate tech debt, improve our infrastructure, and update code to user newer best practices and technologies
+
+- title: Android Engineer, WHOOP
+  from: Jun 2022
+  description: As a member of the Coaching - Weighlifting team, I will develop new features for the WHOOP Android app to provide better physiological insights for strength-training workouts.
