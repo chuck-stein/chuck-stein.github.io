@@ -49,3 +49,9 @@ possible patterns throughout the game.
 <div class="text-center">
   <em>The game interface and circuit, followed by some sections of the PureData patch: the music generation, the game mechanics, and the heart-rate detection algorithm from before it moved to C++</em>
 </div>
+
+<br />
+
+<p class="text-center">
+  {% include elements/button.html link="https://github.com/chuck-stein/heart-rate-hero" text="See The Code" %}
+</p>
