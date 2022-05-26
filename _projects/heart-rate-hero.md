@@ -16,7 +16,7 @@ Bela programs can be in either [PureData](https://en.wikipedia.org/wiki/Pure_Dat
 except for the heart-rate detection algorithm, which was written in C++ to run more efficiently.
 
 The player wraps a pulse sensor around their finger to get a reading, then as the music plays (with a tempo equal to their heart rate), LEDs will light up one at a time, in
-a row, with four rows, each leading to a button that must be pressed along with the beat, when the light reaches the end of the row. If the player pressed the button on
+a row, with four rows, each leading to a button that must be pressed along with the beat, when the light reaches the end of the row. If the player presses the button on
 beat, it will trigger a drum sound to play along with the music (with a unique drum sound for each row -- kick, snare, tom, and hi hat). There is another LED indicating how
 well the player is doing, which turns red if they are missing a lot of notes, green if they are hitting a lot of notes, and orange/yellow for somewhere in between.
 
