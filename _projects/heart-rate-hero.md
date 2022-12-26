@@ -39,8 +39,8 @@ possible patterns throughout the game.
 <br />
 
 {% capture carousel_images %}
-../assets/projects/heart-rate-hero/game-circuit-cropped.png
 ../assets/projects/heart-rate-hero/circuit-diagram.png
+../assets/projects/heart-rate-hero/game-circuit-cropped.png
 ../assets/projects/heart-rate-hero/pd-music-generation.png
 ../assets/projects/heart-rate-hero/pd-game-mechanics.png
 ../assets/projects/heart-rate-hero/pd-heart-rate-measurement.png
@@ -48,7 +48,7 @@ possible patterns throughout the game.
 {% include elements/carousel.html %}
 
 <div class="text-center">
-  <em>A photo of the game interface and circuit, followed by the circuit diagram, followed by some sections of the PureData patch: the music generation, the game mechanics, and the heart-rate detection algorithm from before it moved to C++</em>
+  <em>A circuit diagram for the game, followed by a photo of the game interface and circuit, followed by some sections of the PureData patch: the music generation, the game mechanics, and the heart-rate detection algorithm from before it moved to C++</em>
 </div>
 
 <br />
