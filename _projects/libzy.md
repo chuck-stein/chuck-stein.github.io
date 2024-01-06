@@ -6,7 +6,7 @@ description: An Android app for finding an album to listen to from your Spotify 
 ---
 
 # Libzy
-
+<br />
 Sitting at my desk all day for work and wanting to enhance the experience by taking full advantage of my broad and eclectic music taste -- along with my preference for listening to full albums -- while Spotify's home page kept recommending me the same albums over and over which it already knew I liked, an idea was born. I had already been interested in trying full scale Android development after my brief and surface-level experience with the platform while working at Bose, so I decided a great way to learn -- and kill two birds with one stone -- would be to develop the app I wish existed. A way to search through your "digital record collection" to find something to listen to based on your current mood. Using Spotify's API as a rich source of data, including genre associations and measurements of various musical properties such as danceability or instrumentalness, along with Spotify's Android SDK for authorizing the user and playing albums remotely on Spotify without leaving my own app, I created Libzy.
 
 <img src="../assets/projects/libzy/libzy.png" alt="Libzy App Screenshots" style="height: 350px;" />

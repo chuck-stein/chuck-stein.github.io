@@ -6,7 +6,7 @@ description: A generative music composition using Max For Live
 ---
 
 # Expanse
-
+<br />
 Expanse is a [generative music](https://en.wikipedia.org/wiki/Generative_music#:~:text=Generative%20music%20is%20a%20term,is%20created%20by%20a%20system.) composition, meaning that the music is created in real-time by a system as it plays, as opposed to being composed beforehand like traditional music. This means that the music will never sound exactly the same when played, is always changing, and can go on forever as long as the system is generating it.
 
 In this case, the "system" is a series of [Max For Live](https://www.ableton.com/en/live/max-for-live/) patches, one for each instrument in the composition, each placed on a corresponding Ableton MIDI track. The instruments include a synth bass, a harmonically rich pad, a sample-based synth blending samples of a flute instrument with samples of a mallet instrument, another sample-based synth playing the yangqin (a Chinese hammered dulcimer), and synthetic airy keys. The Max patches tell their corresponding instrument which notes to play and when, via MIDI messages. The notes, rhythms, melody, and harmony are all generated in real-time by algorithms I designed in the Max patches. These algorithms also change the timbres of instruments over time, by modulating parameters such as distortion, attack time, and filter cutoff.

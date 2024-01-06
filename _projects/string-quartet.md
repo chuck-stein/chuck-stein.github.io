@@ -6,7 +6,7 @@ description: A string quartet written by me and performed by Cuarteto Latinoamer
 ---
 
 # Predator & Prey - An Original String Quartet
-
+<br />
 This is a short composition for two violins, a viola, and a cello, loosely based on the sonata form. I wrote the piece using four MIDI tracks in Ableton Live,
 as that is the workflow with which I can most efficiently compose music, due to my familiarity with the software. I then exported the MIDI files
 into more traditional notation software, Sibelius, and refined it from there to add details like dynamics and make the parts more readable.

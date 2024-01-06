@@ -6,7 +6,7 @@ description: A set of compositions algorithmically derived from Conway's Game of
 ---
 
 # Conway Suite
-
+<br />
 Conway Suite is a set of compositions containing musical elements that are algorithmically derived from The Game of Life, a “zero-player game” invented by mathematician John Conway in 1970. In The Game of Life, there is a grid of cells, in which each cell is either “dead” or “alive” (black or white). The state of the grid changes over time (from one “generation” to the next), based on a fixed set of rules, which are as follows.
 
 1. Any live cell with fewer than two live neighbors (where a neighbor is an adjacent cell) dies in the subsequent generation, to simulate underpopulation.

@@ -6,7 +6,7 @@ description: A rhythm game where the tempo is controlled by your heart rate
 ---
 
 # Heart Rate Hero
-
+<br />
 A collaboration with another Northeastern student, this project is a rhythm game in which the music is generated on the fly, and its tempo is controlled by your heart rate.
 Think Guitar Hero but more experimental. Nervous because you keep missing notes? Maybe that will cause your heart rate to go up, which will cause the notes get faster
 and the game to get even harder.
