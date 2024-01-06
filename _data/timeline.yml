@@ -1,24 +1,30 @@
-- title: Student, Northeastern University
+- title: Pinterest - Android Engineer
+  from: Nov 2023
+  to: Present
+  description: I'm currently on the Activation Product team at Pinterest, which focuses on experimentation across various product surfaces with the goal of increasing user retention and engagement. 
+
+- title: WHOOP - Android Engineer (Strain)
+  from: Jun 2022
+  to: Nov 2023
+  description: Coming into my role as the sole Android developer on my team, I was tasked with catching up the Android app to 6 months of iOS work on an intricate new feature. I managed to close this progress gap, through collaboration with another developer who later joined the team, so that both platforms could release simultaneously (in an industry where iOS often comes first). The feature's focus was to provide better physiological insights into strength training workouts. I contributed by architecting and implementing the flows in the app for building and performing a strength training routine. By using the feature for my own workouts while building it, and observing feedback from our testers, I was able to share my own ideas with the team and influence product decisions, an ability I value as an engineer. At WHOOP I also balanced by primary tasks with various projects to improve the codebase as a whole, such as updating our version of Compose, creating a reusable fuzzy search algorithm, building a Retrofit wrapper interface, and developing a generic utility for drawing edge-to-edge UI.
+
+- title: WHOOP - Android Engineer (Growth)
+  from: Jan 2021
+  to: Jun 2021
+  description: After getting a taste for both mobile development and web development through my prior co-op experiences and personal project Libzy, I decided to focus in on Android development with my first position at WHOOP. On the Growth team I worked on various projects pertaining to membership and promotions, including some full stack projects when we lacked the necessary backend resources. This enhanced my understanding of our software system as a whole, sharpening my perspective as to the bigger picture when developing for a mobile frontend. 
+
+- title: Tripadvisor - Software Engineer
+  from: Jan 2020
+  to: Jun 2020
+  description: As a full stack web developer, I gained experience with a variety of web technologies, including Spring MVC, React, jQuery, CSS, and HTML templating. I contributed to codebases across two different subsidiary websites, and built up my comfort with developing, testing, and maintaining production code. Working for a travel company during the outbreak of a global pandemic was an interesting experience for sure, and a valuable lesson in being able to adapt to change.
+
+- title: Bose - Software Engineer
+  from: Jan 2019
+  to: Jul 2019
+  description: I was part of a research team that works on prototyping for potential future product experiences. My primary responsibility was building the first prototypes and demo experiences for an audio augmented reality platform. When I came in the project was just an idea, from which I built a proof-of-concept desktop demo using MaxMSP, showcased the demo to stakeholders to build enthusiasm and support for the project, then fleshed out the proof-of-concept into three iOS demo apps. To evaluate the performance of each prototype along the way, I developed a simple Android app for measuring audio latency. The team and I also explored a stripped-down embedded demo to run directly on the hardware. I traveled to a conference to showcase the technology to developer partners and prepared demo kits of the prototype hardware to distribute to interested partners.
+
+- title: Northeastern University - Undergrad
   from: Sep 2017
   to: May 2022
   description: I graduated summa cum laude with a Bachelor of Science in Computer Science & Music Technology and a minor in Music Recording as an undergraduate student in the Khoury College of Computer Sciences. I wrote for Tastemakers Magazine, a music publication for both print and web, was in the recording department for the campus record label, Green Line Records, and was a member of the Beta Theta Pi fraternity. I also received the Dennis Miller Award for Excellence in Music Technology.
 
-- title: Software Engineer, Bose
-  from: Jan 2019
-  to: Jul 2019
-  description: I was part of a research team that works on prototyping for potential future product experiences. My primary responsibility was building the first prototypes and demo experiences for a patent-pending audio augmented reality technology, as the lead developer on the project. When I came in the project was just an idea, from which I built a proof-of-concept desktop demo using MaxMSP, showcased the demo to stakeholders to build enthusiasm and support for the project, then fleshed out the proof-of-concept into three iOS demo apps. To evaluate the performance of each prototype along the way, I developed a simple Android app for measuring audio latency. The team and I also explored a stripped-down embedded demo to run directly on the hardware. I traveled to a conference to showcase the technology to developer partners and prepared demo kits of the prototype hardware to distribute to interested partners. I also underwent Lean Six Sigma training, earning Yellow Belt Certification, for which my project entailed directing new project management techniques to my team.
-
-- title: Software Engineer, Tripadvisor
-  from: Jan 2020
-  to: Jun 2020
-  description: As a full stack web developer, I gained experience with a variety of web technologies, including Spring MVC, React, jQuery, CSS, and HTML templating. I expedited a GDPR compliance project by designing a frontend interface between a third party cookie consent tool's JavaScript API and our first party Google Tag Manager containers and backend personalization tracking service. I also refactored our server's cookie management system to accommodate newer web standards. I contributed to codebases across two different subsidiary websites, and built up my comfort with developing, testing, and maintaining production code, while providing code reviews to my fellow team members. Working for a travel company during the outbreak of a global pandemic was an interesting experience for sure, and a valuable lesson in being able to adapt to change.
-
-- title: Android Engineer - Growth, WHOOP
-  from: Jan 2021
-  to: Jun 2021
-  description: I worked on several important projects for the Growth team, going beyond my role as an Android Engineer to also provide backend work where needed. This enhanced my understanding of our software system as a whole, sharpening my perspective as to the bigger picture when developing for the Android app. My projects included the full-stack work for A/B testing a new promotion, detecting the eligibility for different users to upgrade their hardware and prompting them to do so, and modifying the registration flow to ensure we have proper credit card information stored in Stripe for various types of users. Along the way for every project, I made an effort to eliminate tech debt, improve our infrastructure, and update code to use newer best practices and technologies.
-
-- title: Android Engineer - Strain, WHOOP
-  from: Jun 2022
-  to: Present
-  description: Coming into my role as the Android developer for the Strain team, I was tasked with catching up the Android app to 6 months of iOS work on an intricate new feature. I managed to close this progress gap so that both platforms can release simultaneously, which I am very proud of in an industry where Android often comes second to iOS. The project's focus is to provide better physiological insights into strength-training workouts to WHOOP members. I architected a complex flow in the app for this purpose, which involves user input, dynamic UI, Bluetooth device communication, state serialization and restoration, backend service calls, and interaction with a JNI library. I've also balanced by primary tasks with various projects to improve the Android codebase as a whole. These include updating our version of Compose, creating a reusable fuzzy search algorithm, building a Retrofit wrapper interface, and developing a generic utility for drawing edge-to-edge UI.
